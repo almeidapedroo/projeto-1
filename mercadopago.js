@@ -1,3 +1,4 @@
 const m = 'mercadopago'
-const D = 'devedor'
-console.log(D, m);
+const p = 'pagamento'
+
+console.log( m, p);
